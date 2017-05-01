@@ -74,7 +74,7 @@ Follow the instructions below to finish this problem.
 
 5. Compute the PSNR value between the original image (converted to type 'double') and the filtered image by using the formulae given above.
 
-Enter the PSNR value (up to two decimal points).
+Enter the PSNR value (up to two decimal points): 29.29
 
 ``` matlab
 img_original = imread('lena.gif');
@@ -87,7 +87,7 @@ err
 
 ### Question 8
 
-Repeat steps (3) through (5) in the previous question, this time using a 5×5 low-pass filter with all coefficients equal to 1/25. Enter the PSNR value (up to two decimal points).
+Repeat steps (3) through (5) in the previous question, this time using a 5×5 low-pass filter with all coefficients equal to 1/25. Enter the PSNR value (up to two decimal points): 25.73
 
 ``` matlab
 lpf_5x5 = repmat(1/25, 5);
