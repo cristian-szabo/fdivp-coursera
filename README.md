@@ -1,4 +1,4 @@
-# Fundamentals of Digital Image and Video Processing - Coursera
+# Fundamentals of Digital Image and Video Processing
 
 Personal repository for course homeworks.
  
