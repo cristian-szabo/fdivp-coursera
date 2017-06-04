@@ -94,15 +94,17 @@ All you need to do is to decide on the appropriate threshold T in line 23 in the
 ```matlab
 ans =
     
-    17
+    17 % <- Answer
 ```
 
 ### Question 10
 
 In the previous question, what was the value of total_space_occupied?
 
+#### Solution
+
 ```matlab
 ans =
     
-    12691
+    12691 % <- Answer
 ```
